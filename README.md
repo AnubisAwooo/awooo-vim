@@ -1,0 +1,2 @@
+# awooo-vim
+learn vim
